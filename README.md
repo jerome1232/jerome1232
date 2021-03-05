@@ -14,3 +14,10 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+- 🌱 My current project is an (mostly) automated [greenhouse](https://github.com/jerome1232/PiGro).
+- 📈 I'm currently learning D3.js, a data visualization library for javascript.
+- 🔮 I'm also studying machine learning. I'm becoming increasingly interested in it.
+- 📨 You can reach me at [j.jones1232@gmail.com](mailto:j.jones1232@gmail.com).
+- 🗝 I'm interested in Linux and other Open Source Projects.
+- 🎸 I dream of one day being able to play guitar.
